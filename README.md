@@ -10,7 +10,9 @@
   </ol>
   
   
- ## Implementing ways with code
+ ## Implementing ways with code  
+ 
+ ![nestedlisting](https://user-images.githubusercontent.com/47202519/52713251-cfe8ac00-2fbc-11e9-8dd6-febbdd367b77.jpg)
  ~~~
  value = ['6','66',["hii","bye",["try",'88']],[['666',"cat","dog"],"how",["final",'666','0']]]
  value[2][1]=["why",5,55]
