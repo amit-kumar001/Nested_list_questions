@@ -49,7 +49,12 @@ else:
  ## How to run this file
  
   Since this is a python file, hence it can be run using following command
+  
+  If you are using python 2.x version, you can run it using:
 ~~~
-  python list_prog.py
+  python2.x list_prog.py
+~~~
+  If you are using python 3.x version, you can run it using:
+~~~  
   python3 list_prog.py
 ~~~
