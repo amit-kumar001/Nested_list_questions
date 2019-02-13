@@ -1,7 +1,6 @@
 # Working_with_nested_lists  
 
 ![nested_list](https://user-images.githubusercontent.com/47202519/52711908-14724880-2fb9-11e9-9248-f9d0d0f2ae22.jpg)  
-
 ## Key feature of this code 
 <ol>
   <li> We will play a game, to find exact item at particular index in nested list.</li>
