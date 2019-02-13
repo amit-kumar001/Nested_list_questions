@@ -1,10 +1,10 @@
-# Nested_list_questions
+# Working_with_nested_lists
 ## Key feature of this code 
 <ol>
-  <li> We will play a game, to find correct items from nested list.</li>
+  <li> We will play a game, to find exact item at particular index in nested list.</li>
   <li> List is a collection which is ordered and mutable. List allows duplicate items.</li>
   <li> Nested list is a list which appears as an element in another list. We have a list with multiple inner list.</li>
-  <li> With the help of <strong>if,else condition</strong>, we will set the conditions for questions and corresponding answers.</li>
+  <li> With the help of <strong>if-else condition</strong>, we will set the conditions for questions and corresponding answers.</li>
   </ol>
   
   
@@ -14,7 +14,7 @@
  value[2][1]=["why",5,55]
  print(value)
     
- ques_1=value[2][1][2]
+ ques_1=value[2][1][2]https://www.tutorialspoint.com/sql/sql-expressions.htm
  ques_2=value[2][2][1]
  ques_3=value[3][0][2]
     
