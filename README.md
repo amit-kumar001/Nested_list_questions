@@ -2,7 +2,7 @@
 ## Key feature of this code 
 <ol>
   <li> We will play a game, to find correct items from nested list.</li>
-  <li> List is a collection which is ordered and muteable. List allows duplicate items.</li>
+  <li> List is a collection which is ordered and mutable. List allows duplicate items.</li>
   <li> Nested list is a list which appears as an element in another list. We have a list with multiple inner list.</li>
   <li> With the help of <strong>if,else condition</strong>, we will set the conditions for questions and corresponding answers.</li>
   </ol>
