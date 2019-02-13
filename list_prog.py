@@ -3,8 +3,6 @@
 
 value = ['6','66',["hii","bye",["try",'88']],[['666',"cat","dog"],"how",["final",'666','0']]]
 
-print(value[2][1])
-print("\n")
 #in this operation, element at a particular index in the nested list is replaced by another list
 
 value[2][1]=["why",5,55]
